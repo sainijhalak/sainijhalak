@@ -33,13 +33,4 @@
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sainijhalak&theme=github_dark)
 
 
-
-
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sainijhalak&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
