@@ -30,7 +30,7 @@
 
 ![Streak](https://streak-stats.demolab.com?user=sainijhalak&theme=github-dark)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sainijhalak&theme=github_dark)
+
 
 
 ---
