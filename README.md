@@ -38,3 +38,9 @@ const jhalak = {
 }
 ```
 </div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=FFB3D9&center=true&vCenter=true&width=500&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
+
+</div>
