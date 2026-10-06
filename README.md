@@ -50,7 +50,7 @@ const jhalak = {
 ![NumPy](https://img.shields.io/badge/NumPy-E040FB?style=for-the-badge&logo=numpy&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FF9DE2?style=for-the-badge&logo=notion&logoColor=white)
 
-![Currently Exploring](https://img.shields.io/badge/Currently_Exploring-FF6EB4?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&height=40&lines=Currently+Exploring" />
 
 ![System Design](https://img.shields.io/badge/System%20Design-FF6EB4?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-E040FB?style=for-the-badge)
