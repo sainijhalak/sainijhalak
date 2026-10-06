@@ -7,9 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainijhalak)
 [![Gmail](https://img.shields.io/badge/Gmail-FF9DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainijhalak015@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-FFB3D9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FBZzGhyYV)
-[![GitHub](https://img.shields.io/badge/GitHub-E040FB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sainijhalak)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sainijhalak&color=FF6EB4&style=for-the-badge)
 
 </div>
 
