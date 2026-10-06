@@ -60,14 +60,6 @@ const jhalak = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=GitHub+Stats+%7C+Proof+of+Work" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=sainijhalak&show_icons=true&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15"/>
-<img src="https://streak-stats.demolab.com?user=sainijhalak&background=00000000&border=FF9DE2&stroke=FF9DE2&ring=E040FB&fire=FF6EB4&currStreakLabel=FF6EB4&sideLabels=4a4a6a&dates=8a8a9e&border_radius=15"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainijhalak&layout=compact&title_color=FF6EB4&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15"/>
-
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=Featured+%7C+Selected+Work" />
 
 [![Vayalum](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=Vayalum&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/Vayalum)
