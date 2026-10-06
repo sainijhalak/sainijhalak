@@ -58,12 +58,12 @@ const jhalak = {
 ![NumPy](https://img.shields.io/badge/NumPy-E040FB?style=for-the-badge&logo=numpy&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-FF9DE2?style=for-the-badge&logo=notion&logoColor=white)
 
-**Currently exploring:**
+![Currently Exploring](https://img.shields.io/badge/Currently_Exploring-FF6EB4?style=for-the-badge)
 
 ![System Design](https://img.shields.io/badge/System%20Design-FF6EB4?style=for-the-badge)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-E040FB?style=for-the-badge)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF9DE2?style=for-the-badge)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFB3D9&center=true&vCenter=true&width=600&height=40&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9de2,50:e040fb,100:ff6eb4&height=100&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9de2,50:e040fb,100:ff6eb4&height=80&section=footer&animation=twinkling"/>
 </div>
