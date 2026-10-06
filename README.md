@@ -20,14 +20,6 @@ const jhalak = {
   learning  : [ "System Design", "Full-Stack Development", "AI Tools" ],
   seeking   : [ "Internships", "Open Source", "Hackathons", "Collabs" ],
 
-  techStack : {
-    languages : [ "Java", "Python", "JavaScript", "C" ],
-    frontend  : [ "React", "HTML", "CSS", "Tailwind", "SASS" ],
-    backend   : [ "Node.js" ],
-    database  : [ "MySQL", "MongoDB" ],
-    tools     : [ "Git", "GitHub", "n8n", "Twilio", "Streamlit", "Pandas", "NumPy", "Notion" ]
-  },
-
   offDuty   : "debugging bugs that shouldn't exist at 2am"
 }
 ```
