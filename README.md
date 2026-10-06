@@ -51,10 +51,10 @@ const jhalak = {
 ![Notion](https://img.shields.io/badge/Notion-E040FB?style=for-the-badge&logo=notion&logoColor=white)
 
 <br/>
-<sub><b><font color="FF6EB4">Currently exploring:</font></b></sub><br/>
-![System Design](https://img.shields.io/badge/System_Design-ffe0f0?style=flat-square&labelColor=white&color=FF9DE2)
-![Full-Stack](https://img.shields.io/badge/Full_Stack-ffe0f0?style=flat-square&labelColor=white&color=E040FB)
-![AI Tools](https://img.shields.io/badge/AI_Tools-ffe0f0?style=flat-square&labelColor=white&color=FF6EB4)
+**Currently exploring:**<br/>
+![System Design](https://img.shields.io/badge/System_Design-FF9DE2?style=for-the-badge&logoColor=white)
+![Full-Stack](https://img.shields.io/badge/Full_Stack-E040FB?style=for-the-badge&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-FF6EB4?style=for-the-badge&logoColor=white)
 
 <br/>
 
