@@ -2,22 +2,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6eb4,50:e040fb,100:ff9de2&height=220&section=header&text=Jhalak%20Saini&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=CS%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=75&descSize=16&descFontColor=ffe0f0&animation=twinkling"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&height=40&lines=Learning+%7C+Building+%7C+Improving+every+day;Turning+ideas+into+working+software;Automating+workflows+with+n8n;Open+to+internships+and+collabs" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6EB4&center=true&vCenter=true&width=480&height=40&lines=Learning+%7C+Building+%7C+Improving+every+day;Turning+ideas+into+working+software;Automating+workflows+with+n8n;Open+to+internships+and+collabs" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainijhalak)
 [![Gmail](https://img.shields.io/badge/Gmail-FF9DE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainijhalak015@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-FFB3D9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/FBZzGhyYV)
+[![GitHub](https://img.shields.io/badge/GitHub-E040FB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sainijhalak)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sainijhalak&color=FF6EB4&style=for-the-badge)
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6eb4,50:e040fb,100:ff9de2&height=2"/>
 
----
 ```js
 const jhalak = {
   role      : "CS Student — passionate about building real things",
@@ -37,10 +34,49 @@ const jhalak = {
   offDuty   : "debugging bugs that shouldn't exist at 2am"
 }
 ```
-</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=FFB3D9&center=true&vCenter=true&width=500&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=Tech+Stack+%7C+Tools+I+Build+With" />
+
+[![Skills](https://skillicons.dev/icons?i=java,py,js,c,react,html,css,tailwind,sass,nodejs,express,mysql,mongodb,git,github&theme=light&perline=8)](https://skillicons.dev)
+
+<br/>
+
+![n8n](https://img.shields.io/badge/n8n-FF6EB4?style=for-the-badge&logo=n8n&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-E040FB?style=for-the-badge&logo=twilio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF9DE2?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFB3D9?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-FF6EB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-E040FB?style=for-the-badge&logo=notion&logoColor=white)
+
+<br/>
+<sub><b><font color="FF6EB4">Currently exploring:</font></b></sub><br/>
+![System Design](https://img.shields.io/badge/System_Design-ffe0f0?style=flat-square&labelColor=white&color=FF9DE2)
+![Full-Stack](https://img.shields.io/badge/Full_Stack-ffe0f0?style=flat-square&labelColor=white&color=E040FB)
+![AI Tools](https://img.shields.io/badge/AI_Tools-ffe0f0?style=flat-square&labelColor=white&color=FF6EB4)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=GitHub+Stats+%7C+Proof+of+Work" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=sainijhalak&show_icons=true&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15"/>
+<img src="https://streak-stats.demolab.com?user=sainijhalak&background=00000000&border=FF9DE2&stroke=FF9DE2&ring=E040FB&fire=FF6EB4&currStreakLabel=FF6EB4&sideLabels=4a4a6a&dates=8a8a9e&border_radius=15"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainijhalak&layout=compact&title_color=FF6EB4&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=Featured+%7C+Selected+Work" />
+
+[![Vayalum](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=Vayalum&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/Vayalum)
+[![BookSphere](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=BookSphere&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/BookSphere)
+[![MeccaC](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=MeccaC&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/MeccaC)
+[![DSA-Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=DSA-Leetcode&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/DSA-Leetcode)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFB3D9&center=true&vCenter=true&width=435&height=30&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9de2,50:e040fb,100:ff6eb4&height=120&section=footer&animation=twinkling"/>
 
 </div>
