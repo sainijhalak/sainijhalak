@@ -37,7 +37,7 @@ const jhalak = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=Tech+Stack+%7C+Tools+I+Build+With" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=600&height=40&lines=Tech+Stack+%7C+Tools+I+Build+With" />
 
 [![Skills](https://skillicons.dev/icons?i=java,py,js,c,react,html,css,tailwind,sass,nodejs,express,mysql,mongodb,git,github&theme=light&perline=8)](https://skillicons.dev)
 
@@ -60,16 +60,7 @@ const jhalak = {
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6EB4&center=true&vCenter=true&width=435&height=30&lines=Featured+%7C+Selected+Work" />
-
-[![Vayalum](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=Vayalum&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/Vayalum)
-[![BookSphere](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=BookSphere&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/BookSphere)
-[![MeccaC](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=MeccaC&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/MeccaC)
-[![DSA-Leetcode](https://github-readme-stats.vercel.app/api/pin/?username=sainijhalak&repo=DSA-Leetcode&title_color=FF6EB4&icon_color=E040FB&text_color=4a4a6a&bg_color=00000000&border_color=FF9DE2&border_radius=15)](https://github.com/sainijhalak/DSA-Leetcode)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFB3D9&center=true&vCenter=true&width=435&height=30&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFB3D9&center=true&vCenter=true&width=600&height=40&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9de2,50:e040fb,100:ff6eb4&height=120&section=footer&animation=twinkling"/>
 
