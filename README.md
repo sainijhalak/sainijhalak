@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6eb4,50:e040fb,100:ff9de2&height=220&section=header&text=Jhalak%20Saini&fontSize=55&fontColor=AB55F7&fontAlignY=55&desc=CS%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=75&descSize=16&descFontColor=F8FAFC&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6eb4,50:e040fb,100:ff9de2&height=220&section=header&text=Jhalak%20Saini&fontSize=55&fontColor=F8FAFC&fontAlignY=55&desc=CS%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=75&descSize=16&descFontColor=F8FAFC&animation=twinkling"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6EB4&center=true&vCenter=true&width=650&height=40&lines=Learning+%7C+Building+%7C+Improving+every+day;Turning+ideas+into+working+software;Automating+workflows+with+n8n;Open+to+internships+and+collabs" />
 
