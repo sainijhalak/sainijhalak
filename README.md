@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff6eb4,50:e040fb,100:ff9de2&height=220&section=header&text=Jhalak%20Saini&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=CS%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=75&descSize=16&descFontColor=ffe0f0&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6eb4,50:e040fb,100:ff9de2&height=220&section=header&text=Jhalak%20Saini&fontSize=55&fontColor=ffffff&fontAlignY=55&desc=CS%20Student%20%7C%20Aspiring%20Developer%20%7C%20Problem%20Solver&descAlignY=75&descSize=16&descFontColor=ffe0f0&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6EB4&center=true&vCenter=true&width=480&height=40&lines=Learning+%7C+Building+%7C+Improving+every+day;Turning+ideas+into+working+software;Automating+workflows+with+n8n;Open+to+internships+and+collabs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FF6EB4&center=true&vCenter=true&width=650&height=40&lines=Learning+%7C+Building+%7C+Improving+every+day;Turning+ideas+into+working+software;Automating+workflows+with+n8n;Open+to+internships+and+collabs" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6EB4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sainijhalak)
 [![Gmail](https://img.shields.io/badge/Gmail-E040FB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainijhalak015@gmail.com)
@@ -57,5 +57,5 @@ const jhalak = {
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-FF9DE2?style=for-the-badge)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=E040FB&center=true&vCenter=true&width=600&height=40&lines=coffee+in+hand%2C+bugs+in+sight%2C+code+deployed++goodnight." />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:ff9de2,50:e040fb,100:ff6eb4&height=80&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9de2,50:e040fb,100:ff6eb4&height=100&section=footer&animation=twinkling"/>
 </div>
